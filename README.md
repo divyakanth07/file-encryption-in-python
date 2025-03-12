@@ -1,6 +1,3 @@
-Sure! Here's the updated `README.md` with the inclusion of `better_encryption.py` and details on its functionality:
-
-
 # File Encryption in Python
 
 This is a Python project that demonstrates file encryption and decryption using two different encryption methods:
