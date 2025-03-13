@@ -78,7 +78,7 @@ This method is more secure as it combines both asymmetric and symmetric encrypti
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ### What's New:
 - I've added sections for the AES + RSA Hybrid Encryption (i.e., `better_encryption.py`).
